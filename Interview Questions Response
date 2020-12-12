@@ -1,0 +1,12 @@
+1. Map creates new arrays with the results of calling a provided function on every element in the calling array. forEach executes a provided function for each array element.
+
+2. A callback is the funciton that passes over to another fuction with an expectation of the other function calling it. A higher-order function takes other functions as an argument and/or returns functions to their callers.
+
+3. Closure gives you access to an outer function's scope from the inner function that it is targeting.
+
+4. "this" in a method refers to the "owner" of the method.
+   "this" if used alone refers to the global object.
+   "this" in an implicit definition is when a function is invoked with the use of dot notation.
+   "this" in an explicit definition uses call() or apply().
+
+5. A super() is used in an extended class because it can be used to call functions on a parent object. The expression can be used in both classes and object literals.

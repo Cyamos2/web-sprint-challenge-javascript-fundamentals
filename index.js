@@ -128,8 +128,8 @@ const zooAnimals = [
  // 🦁🦁🦁 Use add to return the sum of two numbers 🦁🦁🦁
   
 function add(num1, num2){
-    sum = num1 + num2;
-    return sum;
+    consume = num1 + num2;
+    return total;
   }
 
   console.log(consume(2, 2, add)); // 4
